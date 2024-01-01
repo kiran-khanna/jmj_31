@@ -59,3 +59,4 @@ setInterval(() => {
 
 // Initial slide display for desktop
 showSlide(slideIndex);
+
